@@ -1,0 +1,14 @@
+venv/
+build/
+dist/
+__pycache__/
+*.spec
+.ruff_cache/
+Output/
+settings.json
+stats.json
+*.pyc
+.env
+BONKWIN_PROGRESS_REPORT.md
+implementation_plan.md
+task.md
