@@ -24,3 +24,7 @@ tantuspank.log.*
 skills-lock.json
 *.img
 *.exe
+AI_PROTOCOL.md
+GEMINI.md
+.cursorrules
+scratch/

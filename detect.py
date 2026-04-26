@@ -1594,7 +1594,7 @@ def on_about(icon_ref, item):
                 lbl = tk.Label(root, image=photo, bg="#080A0F")
                 lbl.image = photo
                 lbl.pack(pady=5)
-                tk.Label(root, text="Scan to Support Samarjeet", font=("Segoe UI", 8), fg="#555", bg="#080A0F").pack()
+                tk.Label(root, text="Scan to Support TantuCore", font=("Segoe UI", 8), fg="#555", bg="#080A0F").pack()
         except:
             pass
 

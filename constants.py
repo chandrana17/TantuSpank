@@ -10,7 +10,8 @@ Central configuration constants. Single source of truth.
 APP_VERSION = "1.0.0"
 APP_NAME = "TantuSpank"
 APP_URL = "https://tantucore.online"
-UPI_ID = "samarjeet2000@fam"
+# UPI_ID = "samarjeet2000@fam" # Commented for privacy during audit, user can re-enable
+UPI_ID = "" 
 DONATE_POPUP_SIZE = (300, 400)
 
 # ═══════════════════════════════════════════════════════════════

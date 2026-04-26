@@ -28,7 +28,7 @@ WizardStyle=modern
 VersionInfoVersion={#MyAppVersion}
 VersionInfoCompany=TantuCore Studio
 VersionInfoDescription=TantuSpank Utility
-VersionInfoCopyright=Copyright (C) 2026 Samarjeet Chand
+VersionInfoCopyright=Copyright (C) 2026 TantuCore Studio
 VersionInfoProductName=TantuSpank
 VersionInfoOriginalFileName=TantuSpank.exe
 
